@@ -7,7 +7,7 @@
 
 ## 1. Visium HD (10x Genomics)
 
-**Source:** Visium HD FFPE Tissue Preparation Handbook (CG000684)
+**Source:** Visium HD FFPE Tissue Preparation Handbook (CG000684); Visium CytAssist for Instrument Accessory Kit Instruction (CG000548)
 
 ### Pre-Experiment Notes
 
@@ -15,7 +15,7 @@
 - Perform RNA quality assessment (DV200) prior to sectioning; 10x Genomics recommends DV200 > 30%.
 - Recommended section thickness: **5 µm** (acceptable range: 3–10 µm; must not exceed 10 µm).
 
-### 2.0 Exposing the Tissue Block
+### Exposing the Tissue Block
 
 | Step | Details |
 |------|---------|
@@ -24,20 +24,20 @@
 | c | Place tissue block on the specimen clamp |
 | d | Cut at 15 µm until all edges of the tissue are exposed or until the area of interest is exposed; the block should be at **room temperature** during cutting |
 
-### 2.1 RNA Quality Assessment
+### RNA Quality Assessment
 
 - Collect 10 µm sections for RNA extraction (~4 sections for tissue ≤6.5 mm; 1–2 sections for tissue >6.5 mm).
 - Place sections in a pre-cooled, RNase-free microcentrifuge tube; sections may be stored at **-80°C** for long-term storage.
 - Extract RNA using RNeasy FFPE Kit; quantify by Nanodrop/Qubit; measure DV200 using RNA 6000 Pico Kit or TapeStation High Sensitivity Kit.
 - Purified RNA may be stored at **-80°C** for long-term use.
 
-### 2.2 Sectioning
+### Sectioning
 
 | Step | Details |
 |------|---------|
 | a–b | Place tissue block in an **ice bath**, fully submerged; incubate for **10–30 min** depending on tissue type and extent of dehydration; monitor tissue surface every 5–10 min to avoid overhydration |
 | c | Wipe excess oil from the 35X Ultra blade with a lint-free wipe and 100% ethanol; let ethanol evaporate; always use a new blade for each tissue type |
-| d | Secure blade in disposable holder; set clearance angle to **10°** |
+| d | Secure blade in disposable holder; set clearance angle to **10°C** |
 | e | After hydration, place tissue block on specimen clamp and align with blade |
 | f | Fill water bath with Milli-Q water; set temperature to **42°C** (recommended for most tissues; adjust ±1–2°C as needed); ensure surface is free of bubbles and particulates |
 | g | Set microtome to **5 µm**; for previously exposed blocks, discard the first few sections before collecting |
@@ -82,7 +82,7 @@
 ### Guidelines
 
 - FFPE tissue sections mounted onto slides can be stored at **4°C for up to 6 months**.
-- Section thickness must **not exceed 10 µm** (may disrupt microscope autofocusing).
+- Section thickness must **not exceed 10 µm** (we use 5 µm).
 - Tissue should be completely adhered to the slide with minimal tears or folds.
 - Slides must be stored individually in a single slot — **do not stack slides on top of one another**.
 
