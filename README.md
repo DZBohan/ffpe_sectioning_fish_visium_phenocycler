@@ -1,7 +1,7 @@
 # FFPE Sectioning — Post-Processing and Storage Protocols
 
-> Last updated: April 8, 2026
-> Status: Visium HD | PhenoCycler | FISH (pending reply from Empire Genomics)
+> Last updated: April 13, 2026
+> Status: Visium HD | PhenoCycler | FISH
 
 ---
 
@@ -132,6 +132,28 @@
 
 ## 3. FISH (ecDNA detection, EGFR/CEP7 probes)
 
+**Sources:** Personal communication — Empire Genomic & Pathologist (April 2026)
+
+### Post-Sectioning Drying
+
+Two options are acceptable for ensuring tissue adhesion to slide:
+
+| Method | Details |
+|--------|---------|
+| **Option A — Room temperature overnight** | Dry slides flat or on angled holder at RT overnight（both recommended) |
+| **Option B — Baking** | Bake at **56°C for ~1 hour** (Empire Genomics recommendation) |
+
+> Either method should work for ensuring tissue adhesion. Choose based on available equipment and time constraints.
+
+### Storage Recommendations
+
+| Parameter | Empire Genomics | Pathologist |
+|-----------|-------------------------------------|--------------------|
+| **Short-term (≤2 weeks)** | RT, preferably with desiccant | RT is fine |
+| **Long-term (>2 weeks)** | **−20°C** (freezing recommended) | Freezer extends shelf life; RT still acceptable for ~2 years |
+| **Max duration at RT** | ~6 months best practice | ~**2 years** (reliability decreases after) |
+| **Max duration frozen** | >6 months; >1 year possible (personal experience) | Longer than RT |
+
 ---
 
 ## Summary Comparison
@@ -140,4 +162,4 @@
 |----------|----------------------|-------------------|-----------------|
 | **Visium HD** | RT ~30 min (air dry) → 42°C × 3h (oven) → desiccator overnight at RT | RT or 4°C + desiccator | 6 months |
 | **PhenoCycler** | RT overnight (angled slide holder) | 4°C, upright in slide box | 6 months |
-| **FISH** | 
+| **FISH** | RT overnight **or** 56°C × 1h (baking) | RT + desiccant (≤2 weeks) or −20°C (long-term) | >6 months |
