@@ -140,7 +140,7 @@ Two options are acceptable for ensuring tissue adhesion to slide:
 
 | Method | Details |
 |--------|---------|
-| **Option A — Room temperature overnight** | Dry slides flat or on angled holder at RT overnight（both recommended) |
+| **Option A — Room temperature overnight** | Dry slides flat or on angled holder at RT overnight (both recommended) |
 | **Option B — Baking** | Bake at **56°C for ~1 hour** (Empire Genomics recommendation) |
 
 > Either method should work for ensuring tissue adhesion. Choose based on available equipment and time constraints.
