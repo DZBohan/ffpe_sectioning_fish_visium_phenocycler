@@ -22,7 +22,7 @@
 | a | Remove tissue block from storage |
 | b | Set microtome to 15 µm |
 | c | Place tissue block on the specimen clamp |
-| d | Cut at 15 µm until all edges of the tissue are exposed or until the area of interest is exposed; the block should be at **room temperature** during cutting |
+| d | Cut at 15 µm until all edges of the tissue are exposed or until the area of interest is exposed; the block should be at **RT** during cutting |
 
 ### RNA Quality Assessment
 
@@ -54,12 +54,12 @@
 | c | Hold blank slide vertically and insert into water bath, aligning the allowable area with the water surface |
 | d | Use paintbrush or probe to maneuver section to the allowable area |
 | e | Pull tissue slide up and out of the water, ensuring no air bubbles are trapped underneath; set aside in a standing rack |
-| f | **Dry tissue sections upright at room temperature** until tissue is opaque and no water remains on top of or under the section; a fan may be used to assist; if no fan is used, allow up to **30 min at room temperature** — inspect visually, **DO NOT touch tissue** |
+| f | **Dry tissue sections upright at RT** until tissue is opaque and no water remains on top of or under the section; a fan may be used to assist; if no fan is used, allow up to **30 min at RT** — inspect visually, **DO NOT touch tissue** |
 | g | Place tissue slides in a slide drying rack in a section dryer; incubate for **3 hours at 42°C** (alternatively, a thermal cycler set to 42°C may be used) |
-| h | Place in a **desiccator** and keep overnight at **room temperature** to ensure proper drying |
-| i | After overnight drying, proceed with optional morphology assessment or staining; **if not proceeding immediately, store tissue slides at room temperature or 4°C in a desiccator for up to 6 months** |
+| h | Place in a **desiccator** and keep overnight at **RT** to ensure proper drying |
+| i | After overnight drying, proceed with optional morphology assessment or staining; **if not proceeding immediately, store tissue slides at RT or 4°C in a desiccator for up to 6 months** |
 
-> **Slide selection note:** For tissues with large amounts of connective tissue (breast, skin, colon) or TMAs, 10x Genomics recommends Schott Nexterion Slide H – 3D Hydrogel Coated Slides (PN-1800434) to minimize tissue detachment. Store at -20°C; equilibrate at room temperature for 30 min before use.
+> **Slide selection note:** For tissues with large amounts of connective tissue (breast, skin, colon) or TMAs, 10x Genomics recommends Schott Nexterion Slide H – 3D Hydrogel Coated Slides (PN-1800434) to minimize tissue detachment. Store at -20°C; equilibrate at RT for 30 min before use.
 
 <p align="center">
   <img src="images/fig1.png" width="50%">
@@ -71,7 +71,7 @@
 
 | Condition | Maximum Duration |
 |-----------|-----------------|
-| Room temperature or **4°C** in a desiccator | Up to **6 months** |
+| RT or **4°C** in a desiccator | Up to **6 months** |
 
 ---
 
@@ -110,7 +110,7 @@
 | 6 | Section tissue at **5–10 µm** (we do 5 µm)|
 | 7 | Place sectioned tissue in water bath for a few seconds to allow it to flatten out |
 | 8 | Once tissue is completely flat and free of folds/wrinkles, insert slide into water bath and maneuver tissue onto the slide; ensure tissue is centered; ensure tissue is placed on the positively charged side |
-| 9 | Place slide on a clean surface (tissue facing up) or on angled slide holder; **dry overnight at room temperature** |
+| 9 | Place slide on a clean surface (tissue facing up) or on angled slide holder; **dry overnight at RT** |
 | 10 | Repeat steps 6–9 for each tissue section |
 | 11 | When sections are dry, place each slide in a single slot of the storage box and cover with lid |
 
@@ -140,7 +140,7 @@ Two options are acceptable for ensuring tissue adhesion to slide:
 
 | Method | Details |
 |--------|---------|
-| **Option A — Room temperature overnight** | Dry slides flat or on angled holder at RT overnight (both recommended) |
+| **Option A — RT overnight** | Dry slides flat or on angled holder at RT overnight (both recommended) |
 | **Option B — Baking** | Bake at **56°C for ~1 hour** (Empire Genomics recommendation) |
 
 > Either method should work for ensuring tissue adhesion. Choose based on available equipment and time constraints.
